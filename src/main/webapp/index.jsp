@@ -10,8 +10,8 @@
 	<h1 style="color: grey; font-size: 40px;" align="center">we are done with ci/cd</h1>
 	<h1 style="color: blue; font-size: 40px;" align="center">we integraded nexus also/cd</h1>
 	<h1 style="color: black; font-size: 40px;" align="center">we are done with nexus also</h1>
-        <h1 style="color: green; font-size: 40px;" align="center">pavan lucky</h1>
-	<h1 style="color: green; font-size: 40px;" align="center">Vidya I love u</h1>
+        <h1 style="color: green; font-size: 40px;" align="center">pavan</h1>
+	<h1 style="color: green; font-size: 40px;" align="center">Sairam.....Sairam.......Sairam</h1>
 	
 	
 	
